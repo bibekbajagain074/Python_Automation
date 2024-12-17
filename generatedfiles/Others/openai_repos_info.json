@@ -1,0 +1,302 @@
+[
+    {
+        "name": "ai-and-efficiency",
+        "full_name": "openai/ai-and-efficiency",
+        "description": "Submissions for AI and Efficiency SOTA's",
+        "stars": 56,
+        "forks": 26,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/ai-and-efficiency"
+    },
+    {
+        "name": "assign-one-project-github-action",
+        "full_name": "openai/assign-one-project-github-action",
+        "description": "Automatically add an issue or pull request to specific GitHub Project when you create them.",
+        "stars": 10,
+        "forks": 15,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/assign-one-project-github-action"
+    },
+    {
+        "name": "atari-demo",
+        "full_name": "openai/atari-demo",
+        "description": "Code for the blog post \"Learning Montezuma’s Revenge from a Single Demonstration\"",
+        "stars": 31,
+        "forks": 18,
+        "open_issues": 2,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/atari-demo"
+    },
+    {
+        "name": "atari-py",
+        "full_name": "openai/atari-py",
+        "description": "A packaged and slightly-modified version of https://github.com/bbitmaster/ale_python_interface",
+        "stars": 373,
+        "forks": 183,
+        "open_issues": 7,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/atari-py"
+    },
+    {
+        "name": "atari-reset",
+        "full_name": "openai/atari-reset",
+        "description": "Code for the blog post \"Learning Montezuma’s Revenge from a Single Demonstration\"",
+        "stars": 199,
+        "forks": 43,
+        "open_issues": 4,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/atari-reset"
+    },
+    {
+        "name": "automated-interpretability",
+        "full_name": "openai/automated-interpretability",
+        "description": null,
+        "stars": 955,
+        "forks": 112,
+        "open_issues": 15,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/automated-interpretability"
+    },
+    {
+        "name": "aws-fluent-plugin-kinesis",
+        "full_name": "openai/aws-fluent-plugin-kinesis",
+        "description": "Fluentd output plugin that sends events to Amazon Kinesis Streams and Amazon Kinesis Firehose.",
+        "stars": 10,
+        "forks": 27,
+        "open_issues": 1,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/aws-fluent-plugin-kinesis"
+    },
+    {
+        "name": "azure-cli",
+        "full_name": "openai/azure-cli",
+        "description": "Azure Command-Line Interface",
+        "stars": 6,
+        "forks": 5,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/azure-cli"
+    },
+    {
+        "name": "baselines",
+        "full_name": "openai/baselines",
+        "description": "OpenAI Baselines: high-quality implementations of reinforcement learning algorithms",
+        "stars": 15761,
+        "forks": 4876,
+        "open_issues": 504,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/baselines"
+    },
+    {
+        "name": "baselines-results",
+        "full_name": "openai/baselines-results",
+        "description": null,
+        "stars": 117,
+        "forks": 59,
+        "open_issues": 4,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/baselines-results"
+    },
+    {
+        "name": "blocksparse",
+        "full_name": "openai/blocksparse",
+        "description": "Efficient GPU kernels for block-sparse matrix multiplication and convolution",
+        "stars": 1022,
+        "forks": 200,
+        "open_issues": 36,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/blocksparse"
+    },
+    {
+        "name": "box2d-py",
+        "full_name": "openai/box2d-py",
+        "description": null,
+        "stars": 38,
+        "forks": 28,
+        "open_issues": 2,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/box2d-py"
+    },
+    {
+        "name": "bugbounty-gpt",
+        "full_name": "openai/bugbounty-gpt",
+        "description": "A helpful gpt-based triage tool for BugCrowd bugbounty programs.",
+        "stars": 41,
+        "forks": 9,
+        "open_issues": 3,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/bugbounty-gpt"
+    },
+    {
+        "name": "build-hours",
+        "full_name": "openai/build-hours",
+        "description": "Build hours code to share.",
+        "stars": 124,
+        "forks": 24,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/build-hours"
+    },
+    {
+        "name": "ceph-chef",
+        "full_name": "openai/ceph-chef",
+        "description": "Chef cookbooks for managing a Ceph cluster",
+        "stars": 7,
+        "forks": 16,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/ceph-chef"
+    },
+    {
+        "name": "chatgpt-retrieval-plugin",
+        "full_name": "openai/chatgpt-retrieval-plugin",
+        "description": "The ChatGPT Retrieval Plugin lets you easily find personal or work documents by asking questions in natural language.",
+        "stars": 21056,
+        "forks": 3687,
+        "open_issues": 239,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/chatgpt-retrieval-plugin"
+    },
+    {
+        "name": "chef-cookbook-hostname",
+        "full_name": "openai/chef-cookbook-hostname",
+        "description": "Chef cookbook to set node's hostname and FQDN.",
+        "stars": 3,
+        "forks": 1,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/chef-cookbook-hostname"
+    },
+    {
+        "name": "chef-logdna_agent",
+        "full_name": "openai/chef-logdna_agent",
+        "description": "Installs the LogDNA host agent. Currently only supports apt systems.",
+        "stars": 7,
+        "forks": 16,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/chef-logdna_agent"
+    },
+    {
+        "name": "CLIP",
+        "full_name": "openai/CLIP",
+        "description": "CLIP (Contrastive Language-Image Pretraining),  Predict the most relevant text snippet given an image",
+        "stars": 25598,
+        "forks": 3284,
+        "open_issues": 229,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/CLIP"
+    },
+    {
+        "name": "CLIP-featurevis",
+        "full_name": "openai/CLIP-featurevis",
+        "description": "code for reproducing some of the diagrams in the paper \"Multimodal Neurons in Artificial Neural Networks\"",
+        "stars": 305,
+        "forks": 75,
+        "open_issues": 4,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/CLIP-featurevis"
+    },
+    {
+        "name": "code-align-evals-data",
+        "full_name": "openai/code-align-evals-data",
+        "description": null,
+        "stars": 28,
+        "forks": 16,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/code-align-evals-data"
+    },
+    {
+        "name": "coinrun",
+        "full_name": "openai/coinrun",
+        "description": "Code for the paper \"Quantifying Transfer in Reinforcement Learning\"",
+        "stars": 392,
+        "forks": 86,
+        "open_issues": 4,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/coinrun"
+    },
+    {
+        "name": "compose-richtext",
+        "full_name": "openai/compose-richtext",
+        "description": "(OpenAI Fork) A collection of Compose libraries for advanced text formatting and alternative display types.",
+        "stars": 22,
+        "forks": 5,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/compose-richtext"
+    },
+    {
+        "name": "consistencydecoder",
+        "full_name": "openai/consistencydecoder",
+        "description": "Consistency Distilled Diff VAE",
+        "stars": 2132,
+        "forks": 75,
+        "open_issues": 19,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/consistencydecoder"
+    },
+    {
+        "name": "consistency_models",
+        "full_name": "openai/consistency_models",
+        "description": "Official repo for consistency models.",
+        "stars": 6121,
+        "forks": 412,
+        "open_issues": 47,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/consistency_models"
+    },
+    {
+        "name": "consistency_models_cifar10",
+        "full_name": "openai/consistency_models_cifar10",
+        "description": "Consistency models trained on CIFAR-10, in JAX.",
+        "stars": 138,
+        "forks": 15,
+        "open_issues": 4,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/consistency_models_cifar10"
+    },
+    {
+        "name": "consul-helm",
+        "full_name": "openai/consul-helm",
+        "description": "Helm chart to install Consul and other associated components.",
+        "stars": 8,
+        "forks": 14,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/consul-helm"
+    },
+    {
+        "name": "DALL-E",
+        "full_name": "openai/DALL-E",
+        "description": "PyTorch package for the discrete VAE used for DALL·E.",
+        "stars": 10792,
+        "forks": 1938,
+        "open_issues": 77,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/DALL-E"
+    },
+    {
+        "name": "dalle-2-preview",
+        "full_name": "openai/dalle-2-preview",
+        "description": null,
+        "stars": 1047,
+        "forks": 126,
+        "open_issues": 24,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/dalle-2-preview"
+    },
+    {
+        "name": "dalle3-eval-samples",
+        "full_name": "openai/dalle3-eval-samples",
+        "description": "Text-to-image samples collected for the evaluation of DALL-E 3 in the whitepaper.",
+        "stars": 58,
+        "forks": 11,
+        "open_issues": 0,
+        "owner": "openai",
+        "html_url": "https://github.com/openai/dalle3-eval-samples"
+    }
+]
